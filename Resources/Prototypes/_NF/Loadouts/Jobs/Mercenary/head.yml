@@ -39,6 +39,6 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFHeadwearCapable
-  price: 500
+  price: 0
   equipment:
     head: ClothingHeadHatBeretCommander

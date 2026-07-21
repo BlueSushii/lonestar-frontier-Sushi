@@ -1,6 +1,6 @@
 - type: loadout
   id: ContractorClothingBeltPlant
-  price: 500
+  price: 0
   equipment:
     belt: ClothingBeltPlant
 
@@ -13,7 +13,7 @@
 
 - type: loadout
   id: ContractorClothingBeltChef
-  price: 500
+  price: 0
   equipment:
     belt: ClothingBeltChef
 
@@ -26,13 +26,13 @@
 
 - type: loadout
   id: ContractorClothingBeltStorageWaistbag
-  price: 500
+  price: 0
   equipment:
     belt: ClothingBeltStorageWaistbag
 
 - type: loadout
   id: ContractorClothingBeltMedical
-  price: 500
+  price: 0
   equipment:
     belt: ClothingBeltMedical
 
@@ -45,7 +45,7 @@
 
 - type: loadout
   id: ContractorClothingBeltMedicalEMT
-  price: 500
+  price: 0
   equipment:
     belt: ClothingBeltMedicalEMT
 
@@ -58,7 +58,7 @@
 
 - type: loadout
   id: ContractorClothingBeltUtility
-  price: 500
+  price: 0
   equipment:
     belt: ClothingBeltUtility
 
@@ -71,7 +71,7 @@
 
 - type: loadout
   id: ContractorClothingBeltSalvageWebbing
-  price: 500
+  price: 0
   equipment:
     belt: ClothingBeltSalvageWebbing
 
@@ -88,7 +88,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     belt: BoxFolderClipboard
 
@@ -97,7 +97,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     belt: ClothingBeltPilot
 
@@ -116,7 +116,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     belt: ClothingBeltBandolier
 
@@ -125,7 +125,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     belt: ClothingBeltHolster
 
@@ -134,7 +134,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     belt: ClothingBeltChaplainSash
 
@@ -199,7 +199,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
-  price: 1000
+  price: 0
   equipment:
     belt: ClothingBeltMartialBlack
 
@@ -209,7 +209,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
-  price: 1000
+  price: 0
   equipment:
     belt: ClothingBeltPunkRandomized
 
@@ -229,7 +229,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT3
-  price: 5000
+  price: 0
   equipment:
     belt: ClothingBeltChampion
 

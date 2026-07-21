@@ -34,7 +34,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackCaptain
 
@@ -43,7 +43,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelCaptain
 
@@ -52,7 +52,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelCaptain
 
@@ -61,7 +61,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerCaptain
 
@@ -70,7 +70,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSalvage
 
@@ -79,7 +79,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelSalvage
 
@@ -88,7 +88,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelSalvage
 
@@ -97,7 +97,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerSalvage
 
@@ -106,7 +106,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackCargo
 
@@ -115,7 +115,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelCargo
 
@@ -124,7 +124,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelCargo
 
@@ -133,7 +133,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerCargo
 
@@ -142,7 +142,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackHydroponics
 
@@ -151,7 +151,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelHydroponics
 
@@ -160,7 +160,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelHydroponics
 
@@ -169,7 +169,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerHydroponics
 
@@ -178,7 +178,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackScience
 
@@ -187,7 +187,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelScience
 
@@ -196,7 +196,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelScience
 
@@ -205,7 +205,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerScience
 
@@ -217,7 +217,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotDoc
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMedical
 
@@ -229,7 +229,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotDoc
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelMedical
 
@@ -241,7 +241,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotDoc
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelTrauma
 
@@ -253,7 +253,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotDoc
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelMedical
 
@@ -265,7 +265,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotDoc
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerMedical
 
@@ -274,7 +274,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackChemistry
 
@@ -283,7 +283,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelChemistry
 
@@ -292,7 +292,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelChemistry
 
@@ -301,7 +301,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerChemistry
 
@@ -310,7 +310,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackGenetics
 
@@ -319,7 +319,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelGenetics
 
@@ -328,7 +328,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelGenetics
 
@@ -337,7 +337,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerGenetics
 
@@ -346,7 +346,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackVirology
 
@@ -355,7 +355,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelVirology
 
@@ -364,7 +364,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelVirology
 
@@ -373,7 +373,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerVirology
 
@@ -385,7 +385,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotEngineering
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackEngineering
 
@@ -397,7 +397,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotEngineering
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelEngineering
 
@@ -409,7 +409,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotEngineering
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelEngineering
 
@@ -421,7 +421,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotEngineering
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerEngineering
 
@@ -433,7 +433,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotEngineering
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerChiefEngineer
 
@@ -445,7 +445,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotEngineering
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackAtmospherics
 
@@ -457,7 +457,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotEngineering
-  price: 750
+  price: 0
   equipment:
     back: ClothingBackpackDuffelAtmospherics
 
@@ -469,7 +469,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotEngineering
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackSatchelAtmospherics
 
@@ -481,7 +481,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFNotEngineering
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerAtmospherics
 
@@ -490,7 +490,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelChaplain
 
@@ -499,7 +499,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerChaplain
 
@@ -508,7 +508,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelColorBlack
 
@@ -517,7 +517,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelColorBlue
 
@@ -526,7 +526,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelColorGreen
 
@@ -535,7 +535,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelColorOrange
 
@@ -544,7 +544,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelColorRed
 
@@ -553,7 +553,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelColorPurple
 
@@ -562,7 +562,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelColorBrownLight
 
@@ -571,7 +571,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelColorBrown
 
@@ -580,7 +580,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelColorWhite
 
@@ -589,7 +589,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 750
+  price: 0
   equipment:
     back: NFClothingBackpackDuffelColorRandom
 
@@ -598,7 +598,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerColorBlack
 
@@ -607,7 +607,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerColorWhite
 
@@ -616,7 +616,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerColorBlue
 
@@ -625,7 +625,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerColorGreen
 
@@ -634,7 +634,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerColorOrange
 
@@ -643,7 +643,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerColorRed
 
@@ -652,7 +652,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerColorPurple
 
@@ -661,7 +661,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerColorBrownLight
 
@@ -670,7 +670,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerColorBrown
 
@@ -679,7 +679,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT1
-  price: 500
+  price: 0
   equipment:
     back: ClothingBackpackMessengerColorRandom
 
@@ -689,7 +689,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
-  price: 1250
+  price: 0
   equipment:
     back: ClothingBackpackClown
 
@@ -698,7 +698,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
-  price: 2000
+  price: 0
   equipment:
     back: ClothingBackpackDuffelClown
 
@@ -707,7 +707,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
-  price: 1250
+  price: 0
   equipment:
     back: ClothingBackpackSatchelClown
 
@@ -716,7 +716,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
-  price: 1250
+  price: 0
   equipment:
     back: ClothingBackpackMessengerClown
 
@@ -725,7 +725,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
-  price: 1250
+  price: 0
   equipment:
     back: ClothingBackpackMime
 
@@ -734,7 +734,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
-  price: 2000
+  price: 0
   equipment:
     back: ClothingBackpackDuffelMime
 
@@ -743,7 +743,7 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
-  price: 1250
+  price: 0
   equipment:
     back: ClothingBackpackSatchelMime
 
@@ -752,6 +752,6 @@
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
-  price: 1250
+  price: 0
   equipment:
     back: ClothingBackpackMessengerMime

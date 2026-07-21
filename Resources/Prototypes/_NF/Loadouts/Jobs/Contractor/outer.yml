@@ -15,7 +15,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1300
+  price: 0
   equipment:
     outerClothing: ClothingOuterHardsuitVoidParamed
 
@@ -24,7 +24,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 200
+  price: 0
   equipment:
     outerClothing: ClothingOuterHoodieGrey
 
@@ -33,7 +33,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 200
+  price: 0
   equipment:
     outerClothing: ClothingOuterVestHazard
 
@@ -42,7 +42,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 200
+  price: 0
   equipment:
     outerClothing: ClothingOuterApron
 
@@ -51,7 +51,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 200
+  price: 0
   equipment:
     outerClothing: ClothingOuterApronBar
 
@@ -60,7 +60,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 200
+  price: 0
   equipment:
     outerClothing: ClothingOuterApronBotanist
 
@@ -69,7 +69,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 200
+  price: 0
   equipment:
     outerClothing: ClothingOuterApronChef
 
@@ -82,7 +82,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterHoodieBlack
 
@@ -94,7 +94,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatJensen
 
@@ -106,7 +106,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatGentle
 
@@ -118,7 +118,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterJacketChef
 
@@ -130,7 +130,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterHoodieChaplain
 
@@ -142,7 +142,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterNunRobe
 
@@ -154,7 +154,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatLab
 
@@ -166,7 +166,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatLabGene
 
@@ -178,7 +178,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatLabChem
 
@@ -190,7 +190,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatRobo
 
@@ -202,7 +202,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatLabViro
 
@@ -214,7 +214,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterBioScientist
 
@@ -226,7 +226,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterCoat
 
@@ -238,7 +238,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterCoatLong
 
@@ -250,7 +250,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterAtmos
 
@@ -262,7 +262,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterHydro
 
@@ -274,7 +274,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterBar
 
@@ -286,7 +286,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterChef
 
@@ -298,7 +298,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterCap
 
@@ -310,7 +310,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterMusician
 
@@ -322,7 +322,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterCargo
 
@@ -334,7 +334,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterMiner
 
@@ -346,7 +346,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterEngi
 
@@ -358,7 +358,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterMed
 
@@ -370,7 +370,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterChem
 
@@ -382,7 +382,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatParamedicWB
 
@@ -394,7 +394,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterPara
 
@@ -406,7 +406,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterGen
 
@@ -418,7 +418,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterSci
 
@@ -430,7 +430,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterRobo
 
@@ -442,7 +442,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 800
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterViro
 
@@ -455,7 +455,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterClown
 
@@ -467,7 +467,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterMime
 
@@ -479,7 +479,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterQM
 
@@ -491,7 +491,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterRD
 
@@ -503,7 +503,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterCMO
 
@@ -515,7 +515,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterCE
 
@@ -527,7 +527,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatLabCmo
 
@@ -539,7 +539,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatLabSeniorPhysician
 
@@ -551,7 +551,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatRD
 
@@ -563,7 +563,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatLabSeniorResearcher
 
@@ -575,7 +575,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterFlannelRed
 
@@ -587,7 +587,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterFlannelBlue
 
@@ -599,7 +599,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterFlannelGreen
 
@@ -611,7 +611,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatHyenhSweater
 
@@ -623,7 +623,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatDetectiveLoadout
 
@@ -635,7 +635,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatTrench
 
@@ -647,7 +647,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterDameDane
 
@@ -659,7 +659,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterWinterCoatPlaid
 
@@ -671,7 +671,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatBomber
 
@@ -683,7 +683,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterPlagueSuit
 
@@ -695,7 +695,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatBishop
 
@@ -707,7 +707,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatWitchHunter
 
@@ -719,7 +719,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatCardinal
 
@@ -732,7 +732,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatBomberPunkRed
 
@@ -744,7 +744,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatJacketLeather
 
@@ -756,7 +756,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatJacketBiker
 
@@ -768,7 +768,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatJacketJamrock
 
@@ -780,7 +780,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatBomberAerostatic
 
@@ -792,7 +792,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatJacketLettermanBlue
 
@@ -804,7 +804,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatJacketLettermanBrown
 
@@ -816,7 +816,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatJacketLettermanRed
 
@@ -828,7 +828,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatJacketLettermanMagenta
 
@@ -840,7 +840,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatBomberPinkSleeves
 
@@ -853,7 +853,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatBomberRandomized
 
@@ -865,7 +865,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatAcidRaincoat
 
@@ -877,7 +877,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatAcidRaincoatBlue
 
@@ -889,7 +889,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatAcidRaincoatGreen
 
@@ -901,7 +901,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatAcidRaincoatMagenta
 
@@ -913,7 +913,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatAcidRaincoatYellow
 
@@ -927,7 +927,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 1200
+  price: 0
   equipment:
     outerClothing: WetFloorSign
 
@@ -939,7 +939,7 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 6000
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatExpensive
 
@@ -951,6 +951,6 @@
   hideEffects:
   - !type:GroupLoadoutEffect
     proto: NFCoatCapable
-  price: 8000
+  price: 0
   equipment:
     outerClothing: ClothingOuterCoatSpaceAsshole
