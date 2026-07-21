@@ -17,7 +17,7 @@
 #            !type:NanotrasenNameGenerator
 #            prefixCreator: '14'
         - type: ExtraStationInformation
-          iconPath: /Textures/_CS/Logo/icon/icon-256x256.png # Coyote: /Textures/_NF/Logo/icon/icon-256x256.png</Textures/_CS/Logo/icon/icon-256x256.png
+          iconPath: /Textures/_LoneStar/Logo/icon/icon-256x256.png # LoneStar change
           stationSubtext: 'frontier-lobby-frontier-subtext'
           stationDescription: 'frontier-lobby-frontier-description'
           lobbySortOrder: 1
